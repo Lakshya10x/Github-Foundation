@@ -8,7 +8,7 @@ mkdir /workspaces/tmp/new-project
 cd /workspace/tmp/new-project
 git init
 touch Readme.md
-open Readme.md
+code Readme.md
 git status
 git add Readme.md
 
