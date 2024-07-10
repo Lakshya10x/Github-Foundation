@@ -149,6 +149,9 @@ git stash list
 git stash pop
 ```
 
+You wouldn't want to do this in cloud developer environment, because you could loose changes 
+But is you are in local developer environment you might have stashes and just hold one for long time  
+
 
 
 ## Merging
