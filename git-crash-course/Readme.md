@@ -143,6 +143,8 @@ The git stash command takes your uncommitted changes (both staged and unstaged),
 
 ```
 git stash
+git stash save my-name
+git stash apply
 git stash list
 git stash pop
 ```
