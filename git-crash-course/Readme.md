@@ -137,7 +137,15 @@ git push -u origin dev
 
 ## Remote
 
+we can add remote but often you will just add remote via upstream when adding a branch
+
+```sh
+git remote add ...
+git branch -u origin new-feature
+```
+
 ## Stashing
+<<<<<<< Updated upstream
 The git stash command takes your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from your working copy\
 
 
@@ -152,9 +160,19 @@ git stash pop
 You wouldn't want to do this in cloud developer environment, because you could loose changes 
 But is you are in local developer environment you might have stashes and just hold one for long time  
 
+=======
+The git stash command takes your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from your working copy
+
+
+>>>>>>> Stashed changes
 
 
 ## Merging
+
+```
+git checkout dev
+git merge main
+```
 
 ## Add
 When we want to stag changes that will be included in commit
