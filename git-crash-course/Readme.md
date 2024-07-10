@@ -128,6 +128,11 @@ git fetch updates your remote-tracking branches under refs/remotes/<remote>/. Th
 
 git pull brings a local branch up-to-date with its remote version, while also updating your other remote-tracking branches.
 
+Create branch and then push to it in one go
+```
+git push --set-upstream origin dev
+git pus origin dev
+```
 ## Remote
 
 ## Stashing
