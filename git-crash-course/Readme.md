@@ -138,6 +138,16 @@ git push -u origin dev
 ## Remote
 
 ## Stashing
+The git stash command takes your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from your working copy\
+
+
+```
+git stash
+git stash list
+git stash pop
+```
+
+
 
 ## Merging
 
