@@ -131,8 +131,10 @@ git pull brings a local branch up-to-date with its remote version, while also up
 Create branch and then push to it in one go
 ```
 git push --set-upstream origin dev
-git pus origin dev
+git push -u origin dev
 ```
+
+
 ## Remote
 
 ## Stashing
