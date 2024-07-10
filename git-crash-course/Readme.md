@@ -145,33 +145,6 @@ git branch -u origin new-feature
 ```
 
 ## Stashing
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-The git stash command takes your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from your working copy\
-
-
-```
-git stash
-git stash save my-name
-git stash apply
-git stash list
-git stash pop
-```
-
-You wouldn't want to do this in cloud developer environment, because you could loose changes 
-But is you are in local developer environment you might have stashes and just hold one for long time  
-
-=======
-The git stash command takes your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from your working copy
-
-
->>>>>>> Stashed changes
-=======
-The git stash command takes your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from your working copy
-
-
->>>>>>> Stashed changes
-
 
 ## Merging
 
