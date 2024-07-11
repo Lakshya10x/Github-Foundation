@@ -1,0 +1,12 @@
+// See https://containers.dev/implementors/json_reference/ for configuration reference
+{
+"name": "basic config",
+"customizations": {
+	"vscode": {
+		"extensions": [
+			"mhutchie.git-graph",
+			"phil294.git-log--graph"
+		]
+	}
+}
+}
