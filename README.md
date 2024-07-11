@@ -1,2 +1,2 @@
-# Github-Demo
+# Github-Foundation Documentation
 Practice GitHub Fundamental
