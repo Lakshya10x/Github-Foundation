@@ -1,0 +1,5 @@
+curl -L \
+  -H "Accept: application/vnd.github+json" \
+  -H "Authorization: Bearer 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" \
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+  https://api.github.com/issues
